@@ -1,3 +1,6 @@
+def a():
+    pass
+
 def f():
    print('hello from f')
 
