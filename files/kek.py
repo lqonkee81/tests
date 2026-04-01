@@ -1,5 +1,5 @@
-def b():
-    pass
+#def b():
+#    pass
 
 def a():
     pass
