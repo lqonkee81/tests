@@ -1,3 +1,7 @@
+def f():
+   print('hello from f')
+
+
 def main():
     print("hello world")
 
