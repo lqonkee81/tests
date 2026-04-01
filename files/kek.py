@@ -9,7 +9,7 @@ def f():
 
 
 def main():
-    print("hello merge")
+    print("hello merge2")
 
 if __name__ == "__main__:
     main()
